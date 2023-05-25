@@ -1,0 +1,69 @@
+.typing-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  text-align: center;
+  background-image: url("https://res.cloudinary.com/ddtoi0jtp/image/upload/v1684996852/1000_F_5862294_4D0DTavsw1k2RJHnPNb80C8035vSnTvi_lkpr1t.jpg");
+  height: 100vh;
+  background-size: cover;
+}
+
+.main-heading {
+  font-family: "Roboto";
+  font-size: 30px;
+  font-weight: bold;
+  color: "#ffffff";
+}
+
+.next-key-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.next-keys {
+  font-family: "Roboto";
+  font-size: 15px;
+  font-weight: 500;
+  color: "#545354";
+}
+
+.card-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.left-time {
+  font-family: "Roboto";
+  font-size: 15px;
+  font-weight: 500;
+  color: "#05eb78";
+}
+
+.keys-pressed {
+  font-family: "Roboto";
+  font-size: 15px;
+  font-weight: 500;
+  color: "#ebe309";
+}
+
+.accuracy {
+  font-family: "Roboto";
+  font-size: 15px;
+  font-weight: 500;
+  color: "#111212";
+}
+
+.input-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
